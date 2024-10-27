@@ -9,7 +9,7 @@ This repository contains the solution for the "Data Science" challenge from ASD 
   - **Strict Time Limit:** The solution must process the images and return results within 3 seconds, making real-time machine learning essential.
 
 ## Solution Approach
-To solve this challenge, we developed a machine learning model that can:
+To solve this challenge, I developed a machine learning model that can:
 
 1. Recognize the time displayed on analog clock images.
 2. Sort these times in ascending order.
