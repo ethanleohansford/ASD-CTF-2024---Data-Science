@@ -1,0 +1,6 @@
+tensorflow==2.9.1          # TensorFlow for building and running the CNN model
+numpy==1.23.1              # Numerical operations, used in image processing and data handling
+pandas==1.4.3              # Data handling for logging and managing server responses
+pillow==9.2.0              # Image processing (PIL) to handle and manipulate images
+scikit-learn==1.1.1        # For data preprocessing and class label encoding
+matplotlib==3.5.2          # (Optional) For visualizing training performance (if needed)
