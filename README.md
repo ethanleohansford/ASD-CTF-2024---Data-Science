@@ -1,6 +1,8 @@
 # ASD CTF 2024 - "Data Science" Flag
 This repository contains the solution for the "Data Science" challenge from ASD CTF 2024. The challenge involves building a machine learning model to recognize and sort times displayed on analog clock images. The solution automates the process to meet a strict 3-second time constraint, making manual solutions infeasible.
 
+![image](https://github.com/user-attachments/assets/6844496e-5c48-4aff-89cf-7cec86c743f0)
+
 ## Challenge Overview
 - **Challenge Name:** "Data Science"
 - **Goal:** Predict times on analog clock images, sort them in ascending order, and send the sorted list back to a remote server to retrieve the flag.
